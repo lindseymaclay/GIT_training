@@ -1,3 +1,5 @@
 We have our tools and ready to jet for mars
 writing more things! we found rocks!
 analyzing rocks, will report back data soon. 
+trying to understand what happens with the stage diff command
+
